@@ -1,2 +1,3 @@
 # conflicto-act
-segunda actividad de programacion I
+segunda actividad de programacion I:conflicto
+
